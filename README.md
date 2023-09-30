@@ -44,7 +44,7 @@ Também conta com uma API do Discord para comandos e notificação de alteraçã
    
 5) Com o bot no servidor, extraia o ID do Canal desejado para os comandos e notificações clicando com o botão direito e em `Copiar ID do canal`
    
-   ![image](https://github.com/KindaSnoowy/Meu-IFMG-WebScrapping/assets/118382917/b9f893a9-7ca0-41fa-9e88-fff45cb69e56)
+   ![image](https://github.com/KindaSnoowy/Meu-IFMG-WebScrapping/assets/118382917/1bb2f306-0a31-4560-9e02-146d4e006bb6)
 
 6) Atualize a varíavel url em [config.py](https://github.com/KindaSnoowy/Meu-IFMG-WebScrapping/blob/main/config.py) colocando o ID do canal selecionado no lugar de <channel id>
 
