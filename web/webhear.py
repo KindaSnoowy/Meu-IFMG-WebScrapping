@@ -8,7 +8,7 @@ def webhear(tags, disciplinas):
     new = {}
     while True:
         try:
-            time.sleep(5)
+            time.sleep(900)
             for i, v in tags.items():
                 print("Procurando pelas notas de", i)
                 new[i] = scrapnotas(getnotas(v))[0]
